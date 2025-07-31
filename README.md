@@ -162,8 +162,6 @@ The app provides six comprehensive charts:
 
 ## ⚠️ Disclaimer
 
-## ⚠️ Disclaimer
-
 **This application is for educational and demonstration purposes only.**
 
 -   It should **NOT** be used for actual medical diagnosis or treatment decisions
